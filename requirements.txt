@@ -1,0 +1,6 @@
+send2trash
+pywin32
+python_magic==0.4.25
+python-magic-bin
+pygame
+tkinter
